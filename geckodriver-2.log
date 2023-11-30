@@ -1,0 +1,19 @@
+1701356937490	geckodriver	INFO	Listening on 127.0.0.1:52868
+1701356940590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileoZ86qs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701356941232	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701356941338	Marionette	INFO	Listening on port 52902
+WebDriver BiDi listening on ws://127.0.0.1:52869
+Read port: 52902
+1701356941606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52869/devtools/browser/d70d2ba3-03b3-4468-8f99-669941bc97ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qademo.onebrick.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qademo.onebrick.io."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://qademo.onebrick.io."
+1701356965674	Marionette	INFO	Stopped listening on port 52902
+JavaScript warning: https://qademo.onebrick.io/dashboard/js/core/bootstrap-material-design.min.js, line 1: Script terminated by timeout at:
+n._watchLoading/<@https://qademo.onebrick.io/dashboard/js/core/bootstrap-material-design.min.js:1:73359
+
+Dynamically enable window occlusion 1
